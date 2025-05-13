@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Luis Armando Rojas
 
-<!--
-**Wuichorojas/Wuichorojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="banner.jpg" alt="Banner" style="width:100%; height:80%;" />
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer | 🧠 Problem Solver | 📍 Based in San Luis Potosí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build elegant solutions for complex challenges — from responsive web apps to automation scripts and facial recognition systems.
+
+### 🔧 Tech I work with:
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, Python, MySQL
+- Tools & More: Git, Linux, C++, Kali Linux
+
+### 🚀 Projects I’m proud of:
+- 🎉 Custom event invitations with QR access and RSVP management
+- 🧠 Facial recognition login systems
+- 🌐 Company websites with custom domains and mail servers
+
+### 📫 Let’s connect!
+- [Portfolio](#) | [Email](mailto:luisrojas.mtz271@gmail.com)
+
+> *"If you can imagine it, you can code it."*
+
