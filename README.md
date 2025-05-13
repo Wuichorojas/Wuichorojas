@@ -17,7 +17,7 @@ I build elegant solutions for complex challenges — from responsive web apps to
 - 🌐 Company websites with custom domains and mail servers
 
 ### 📫 Let’s connect!
-- [Portfolio](#) | [Email](mailto:luisrojas.mtz271@gmail.com)
+- [Portfolio](https://myportfolio.wbdinvitaciones.com) | [Email](mailto:luisrojas.mtz271@gmail.com)
 
 > *"If you can imagine it, you can code it."*
 
